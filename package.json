@@ -1,0 +1,27 @@
+{
+    "name": "@beefe/zoo-cli",
+    "version": "0.0.1-alpha.0",
+    "description": "Global build tools for web",
+    "main": "index.js",
+    "bin": {
+        "zoo": "bin/zoo",
+        "zoo-cli": "bin/zoo"
+    },
+    "scripts": {},
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/beefe/zoo-cli"
+    },
+    "keywords": [
+        "zoo",
+        "zoo-cli"
+    ],
+    "author": {
+        "name": "zooble",
+        "email": "wenliang.web@gmail.com"
+    },
+    "license": "MIT"
+}
