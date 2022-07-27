@@ -1,5 +1,5 @@
 {
-    "name": "zoo-cli",
-    "version": "0.0.1",
+    "name": "@beefe/zoo-cli",
+    "version": "0.0.1-alpha.0",
     "lockfileVersion": 1
 }

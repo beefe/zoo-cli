@@ -1,1 +1,1 @@
-## Global compile tools for front-end
+## Global build tools for web
